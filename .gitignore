@@ -109,6 +109,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.jpeg
+.png
+train/
+test/
+val/
+
 
 # Spyder project settings
 .spyderproject
